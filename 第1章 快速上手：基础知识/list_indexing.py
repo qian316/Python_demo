@@ -1,4 +1,5 @@
 # _*_ coding:utf-8
+# indexing 索引学习demo
 months = [
     'January',
     'February',
